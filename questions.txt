@@ -1,0 +1,7 @@
+Check whether a given number is even or odd. 
+Find the Largest of Three Numbers .
+Reverse the digits of a given integer. 
+Check Palindrome Number .
+Find the Factorial of a Number .
+Count the Number of Digits .
+Check Prime Number .
