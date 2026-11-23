@@ -1,2 +1,7 @@
 Q1. Sum of Digits
 Q2. Count Even and Odd Digits
+Q3. Check Armstrong Number
+Q4. Print Fibonacci Series
+Q5. Find GCD of Two Numbers
+Q6. Find the Power of a Number
+Q7. Strong Number
