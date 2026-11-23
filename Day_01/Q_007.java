@@ -1,3 +1,4 @@
+package Day_01;
 import java.util.Scanner;
 
 public class Q_007 {

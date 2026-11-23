@@ -1,0 +1,2 @@
+Q1. Sum of Digits
+Q2. Count Even and Odd Digits

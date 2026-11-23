@@ -1,19 +1,18 @@
+package Day_01;
 import java.util.Scanner;
 
-public class Q_005 {
+class Q_001 {
     public static void main(String[] args) {
-
+        
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter a number : ");
         int num = sc.nextInt();
 
-        int fact = 1;
-
-        for (int i = 1; i <= num; i++) {
-            fact = fact * i;
+        if(num % 2 == 0) {
+            System.out.println("even number");
+        } else {
+            System.out.println("odd number");
         }
-
-        System.out.println("factorial of a given number is : " + fact);
     }
 }
